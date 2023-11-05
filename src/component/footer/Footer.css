@@ -1,0 +1,17 @@
+.footer{
+  background-color: black;
+  padding: 10px 0;
+  margin: 0;
+}
+.footer-titulo{
+  color: white;
+}
+.footer-p{
+  color: white;
+}
+.footer-s1{
+  color: gold;
+}
+.footer-s2{
+  color: red;
+}
